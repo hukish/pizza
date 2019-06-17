@@ -10,3 +10,6 @@ The website contains details about the prize and sizes of a pizza. .
 * When you choose in the toppings section it will pop up the price of each toppings.
 * When  you choose  in the crust section it will pop up the price of each crust.
 * When you choose in the size section it will pop up the price of each size.
+
+##installation Requirements..
+* As long as you have a compatible browser the document will work.
