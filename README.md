@@ -6,4 +6,7 @@ By: Hudson Saruni kishoyian.
 ## Description
 The website contains details about the prize and sizes of a pizza. .
  when you choose the prizes;size,toppings and crust you should be able to see the total prize and the option of delivery.
-## Setup/Installation Requirements..
+## Setup Requirements..
+* When you choose in the toppings section it will pop up the price of each toppings.
+* When  you choose  in the crust section it will pop up the price of each crust.
+* When you choose in the size section it will pop up the price of each size.
