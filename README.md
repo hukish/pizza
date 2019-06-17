@@ -38,3 +38,5 @@ Currently no bug has been identified.
 * The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered
 
 ### License
+*Moringa School
+Copyright (c)2019 **pizza menu by -Hudson saruni*
