@@ -32,3 +32,5 @@ Currently no bug has been identified.
 * Javascript was used in making the webpage responsive.
 * Atom was the source code editor of choice.
 * Git and Github were used as my local and online repositories respectively.
+
+## Support and contact details
