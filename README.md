@@ -24,3 +24,6 @@ Currently no bug has been identified.
 |small pizza            | toppings and crust     | price        
 |medium               |toppings and crust      | price
 |large              | toppings and crust | price
+
+
+## Technologies Used
