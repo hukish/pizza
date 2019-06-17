@@ -34,3 +34,5 @@ Currently no bug has been identified.
 * Git and Github were used as my local and online repositories respectively.
 
 ## Support and contact details
+* Contact me through my email: hudsonhukish@gmail.com
+* The source code is also contained within the folder containing this ReadMe with comments on the code thus third-party support can be offered
