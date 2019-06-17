@@ -1,0 +1,23 @@
+body{
+  background-image: url("412086.jpg");
+  background-size:cover;
+}
+
+
+.form-control {
+  width: 600px;
+  height: 50px;
+  margin-left: 150px;
+}
+
+
+.jumbotron{
+  background-color: transparent;
+ }
+.mar{
+ font-size: 80pt;
+}img {
+  width: 275px;
+  height: 183px;
+  border-radius: 8px;
+}
